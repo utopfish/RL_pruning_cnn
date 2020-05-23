@@ -1,0 +1,3 @@
+numpy
+loguru
+tensorflow==2.1.0
